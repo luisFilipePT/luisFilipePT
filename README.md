@@ -3,21 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisfilipept" alt="luisfilipept" /> </p>
 
-- 🤓 I’m currently working at [xgeeks](https://xgeeks.io/)
+- 🤓&ensp;I’m currently working at [xgeeks](https://xgeeks.io/)
 
-- 🛍 Before that I worked at [Farfetch](https://www.farfetch.com/)
+- 🛍&ensp;Before that I worked at [Farfetch](https://www.farfetch.com/)
 
-- 👨‍💻 I’m focused on **Javascript ecosystem & marketplaces**
+- 👨‍💻&ensp;I’m focused on **Javascript ecosystem & marketplaces**
 
-- 🛠 There should be a personal site but... [for now find more about me here](https://www.linkedin.com/in/luis-oliveira-tech/)
+- 🛠&ensp;There should be a personal site but... [for now find more about me here](https://www.linkedin.com/in/luis-oliveira-tech/)
 
-- 📝 I should write more articles [https://medium.com/@luis.fgbo](https://medium.com/@luis.fgbo)
+- 📝&ensp;I should write more articles [https://medium.com/@luis.fgbo](https://medium.com/@luis.fgbo)
 
-- 💬 Reach out **don't be shy**
+- 💬&ensp;Reach out **don't be shy**
 
-- 📫 Reach me on Twitter **@_luisFilipePT**
+- 📫&ensp;Reach me on Twitter **@_luisFilipePT**
 
-- ⚡ Open Source Contributor **Gatsby, React-Bootstrap and others**
+- ⚡&ensp;Open Source Contributor **Gatsby, React-Bootstrap and others**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
