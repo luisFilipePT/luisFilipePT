@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
 <p align="center"> 
-   <img src="https://user-images.githubusercontent.com/9373787/161594810-a96e9e63-4ee9-42e1-8d5d-fad84174df7d.png" alt="Luis Oliveira" height="260" />
+   <img src="https://user-images.githubusercontent.com/9373787/161594810-a96e9e63-4ee9-42e1-8d5d-fad84174df7d.png" alt="Luis Oliveira" width="260" />
 </p>
 <h3 align="center">A problem solver, aka Senior Software Engineer from Portugal</h3>
 <p align="center"> 
