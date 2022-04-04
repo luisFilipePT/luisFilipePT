@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
-<h3 align="center">A problem solver, aka Senior Software Engineer from Portugal</h3>
-<p align="right"> <img src="https://images.credly.com/size/680x680/images/8ee45313-716a-4142-a9da-30adaaea0c12/Training_Badges_Master_Node-AppDev.png" alt="JSNAD" width="100" height="100" /> </p>
+
+<p align="left"> 
+    <img src="https://images.credly.com/size/680x680/images/8ee45313-716a-4142-a9da-30adaaea0c12/Training_Badges_Master_Node-AppDev.png" alt="JSNAD" width="100" height="100" />
+    <h3 align="center">A problem solver, aka Senior Software Engineer from Portugal</h3>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisfilipept" alt="luisfilipept" /> </p>
 
 - 🤓 I’m currently working at [xgeeks](https://xgeeks.io/)
