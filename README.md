@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
 <h3 align="center">A problem solver, aka Senior Software Engineer from Portugal</h3>
 <p align="center"> 
+    ![2-removebg-preview](https://user-images.githubusercontent.com/9373787/161594810-a96e9e63-4ee9-42e1-8d5d-fad84174df7d.png)
+</p>
+<p align="center"> 
     <a href="https://www.credly.com/badges/15ccd1a2-7863-4569-842e-8e680ff2afdb" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/8ee45313-716a-4142-a9da-30adaaea0c12/Training_Badges_Master_Node-AppDev.png" alt="JSNAD" width="100" height="100" />
     </a>
