@@ -4,9 +4,8 @@
 </p>
 <h3 align="center">A problem solver, aka Senior Software Engineer from Portugal</h3>
 <p align="center"> 
-    <a href="https://www.credly.com/badges/15ccd1a2-7863-4569-842e-8e680ff2afdb" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/8ee45313-716a-4142-a9da-30adaaea0c12/Training_Badges_Master_Node-AppDev.png" alt="JSNAD" width="100" height="100" />
-    </a>
+   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="15ccd1a2-7863-4569-842e-8e680ff2afdb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d8b26b52-472e-4201-a642-36ce4f5d78cc" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisfilipept" alt="luisfilipept" /> </p>
 
