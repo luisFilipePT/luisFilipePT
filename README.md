@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
+<p align="center">
+  <a href="https://luis-oliveira.vercel.app/">
+      <img alt="Hi 👋" src="https://pbs.twimg.com/profile_banners/1133863492593885189/1587320975/1500x500"/>
+  </a>
+</p>
 <p align="center"> 
    <img src="https://user-images.githubusercontent.com/9373787/161594810-a96e9e63-4ee9-42e1-8d5d-fad84174df7d.png" alt="Luis Oliveira" width="260" />
 </p>
@@ -12,9 +17,11 @@
       <img src="https://images.credly.com/size/220x220/images/3c44b901-a2bd-41e7-8a10-24cba9ddd85d/Training_Badges_Master_Node-ServDev.png" alt="JSNSD" width="100" height="100" />
    </a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luisfilipept" alt="luisfilipept" /> </p>
+<p align="left"> 
+   <img src="https://komarev.com/ghpvc/?username=luisfilipept" alt="luisfilipept" /> 
+</p>
 
-- 🤓&ensp;I’m currently working at [xgeeks](https://xgeeks.io/)
+- 🤓&ensp;I’m currently working at [xgeeks  <img src="https://xgeeks.io/assets/favicon/favicon-32.png" alt="xgeeks" width="12" />](https://xgeeks.io/)
 
 - 🛍&ensp;Before that I worked at [Farfetch](https://www.farfetch.com/)
 
