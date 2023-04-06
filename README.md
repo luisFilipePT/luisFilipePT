@@ -7,7 +7,7 @@
 <p align="center"> 
    <img src="https://user-images.githubusercontent.com/9373787/161594810-a96e9e63-4ee9-42e1-8d5d-fad84174df7d.png" alt="Luis Oliveira" width="260" />
 </p>
-<h3 align="center">A problem solver, aka Senior Software Engineer from Portugal</h3>
+<h3 align="center">A problem solver, aka Senior <s>Software</s> Product Engineer from Portugal</h3>
 <p style="display: flex" align="center">
    <a href="https://www.credly.com/badges/15ccd1a2-7863-4569-842e-8e680ff2afdb/public_url" target="_blank">
       <img src="https://images.credly.com/size/220x220/images/8ee45313-716a-4142-a9da-30adaaea0c12/Training_Badges_Master_Node-AppDev.png" alt="JSNAD" width="100" height="100" />
@@ -33,19 +33,17 @@
 
 - 💬&ensp;Reach out **don't be shy**
 
-- 📫&ensp;Reach me on Twitter **@_luisFilipePT**
-
 - ⚡&ensp;Open Source Contributor **Gatsby, React-Bootstrap and others**
 
-<p align="left">
+
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/@_luisfilipept" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@_luisfilipept" height="30" width="40"></a>
-<a href="https://linkedin.com/in/luis-oliveira-tech" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="luis-oliveira-tech" height="30" width="40"></a>
-<a href="https://codesandbox.com/luisfilipept" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="luisfilipept" height="30" width="40"></a>
-<a href="https://medium.com/@luis.fgbo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@luis.fgbo" height="30" width="40"></a>
-<a href="https://www.youtube.com/c/luisfilipe_intheweb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="luisfilipe_intheweb" height="30" width="40"></a>
-<a href="https://www.hackerrank.com/@luis_fgbo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@luis_fgbo" height="30" width="40"></a>
-</p>
+
+![@_luisfilipept](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white&raycast-width=40&raycast-height=30)
+![luis-oliveira-tech](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&raycast-width=40&raycast-height=30)
+![luisfilipept](https://img.shields.io/badge/CodeSandbox-%23F7B93E?style=for-the-badge&logo=codesandbox&logoColor=white&raycast-width=40&raycast-height=30)
+![@luis.fgbo](https://img.shields.io/badge/Medium-%2312100E?style=for-the-badge&logo=medium&logoColor=white&raycast-width=40&raycast-height=30)
+![luisfilipe_intheweb](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white&raycast-width=40&raycast-height=30)
+![@luis_fgbo](https://img.shields.io/badge/HackerRank-%2365FF0F?style=for-the-badge&logo=hackerrank&logoColor=black&raycast-width=40&raycast-height=30)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
