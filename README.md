@@ -21,13 +21,13 @@
    <img src="https://komarev.com/ghpvc/?username=luisfilipept" alt="luisfilipept" /> 
 </p>
 
-- 🤓&ensp;I’m currently working at [xgeeks  <img src="https://xgeeks.io/assets/favicon/favicon-32.png" alt="xgeeks" width="12" />](https://xgeeks.io/)
+- 🤓&ensp;I’m currently working at [xgeeks  <img src="https://media.licdn.com/dms/image/C4D0BAQGNd-R3_S_Gsw/company-logo_100_100/0/1663761601044?e=1688601600&v=beta&t=WQnZXzSSs63GUknk0eHHxL_DvuDcTVOVba8Mmso63Ds" alt="xgeeks" width="12" />](https://xgeeks.io/)
 
 - 🛍&ensp;Before that I worked at [Farfetch](https://www.farfetch.com/)
 
 - 👨‍💻&ensp;I’m focused on **Javascript ecosystem & marketplaces**
 
-- 🛠&ensp;There should be a personal site but... [for now find more about me here](https://www.linkedin.com/in/luis-oliveira-tech/)
+- 🛠&ensp;Find out more about me on my [personal website](https://luis-oliveira.vercel.app/)
 
 - 📝&ensp;I should write more articles [https://medium.com/@luis.fgbo](https://medium.com/@luis.fgbo)
 
