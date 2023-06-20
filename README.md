@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
 <p align="center">
   <a href="https://luis-oliveira.vercel.app/">
-      <img alt="Hi 👋" src="https://pbs.twimg.com/profile_banners/1133863492593885189/1587320975/1500x500"/>
+      <img alt="Hi 👋" src="https://pbs.twimg.com/profile_banners/1133863492593885189/1686785643/1500x500"/>
   </a>
-</p>
-<p align="center"> 
-   <img src="https://user-images.githubusercontent.com/9373787/161594810-a96e9e63-4ee9-42e1-8d5d-fad84174df7d.png" alt="Luis Oliveira" width="260" />
 </p>
 <h3 align="center">A problem solver, aka Senior <s>Software</s> Product Engineer from Portugal</h3>
 <p style="display: flex" align="center">
