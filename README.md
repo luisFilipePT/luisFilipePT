@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
 <p align="center">
-  <a href="https://luis-oliveira.vercel.app/">
+  <a href="https://www.luisfilipept.com/">
       <img alt="Hi 👋" src="https://www.luisfilipept.com/og.png"/>
   </a>
 </p>
