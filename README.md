@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
 <p align="center">
   <a href="https://luis-oliveira.vercel.app/">
-      <img alt="Hi 👋" src="https://pbs.twimg.com/profile_banners/1133863492593885189/1686785643/1500x500"/>
+      <img alt="Hi 👋" src="https://www.luisfilipept.com/og.png"/>
   </a>
 </p>
 <h3 align="center">A problem solver, aka Senior <s>Software</s> Product Engineer from Portugal</h3>
@@ -18,13 +18,13 @@
    <img src="https://komarev.com/ghpvc/?username=luisfilipept" alt="luisfilipept" /> 
 </p>
 
-- 🤓&ensp;I’m currently working at [xgeeks  <img src="https://media.licdn.com/dms/image/C4D0BAQGNd-R3_S_Gsw/company-logo_100_100/0/1663761601044?e=1688601600&v=beta&t=WQnZXzSSs63GUknk0eHHxL_DvuDcTVOVba8Mmso63Ds" alt="xgeeks" width="12" />](https://xgeeks.io/)
+- 🤓&ensp;I’m currently working at [xgeeks](https://xgeeks.io/)
 
 - 🛍&ensp;Before that I worked at [Farfetch](https://www.farfetch.com/)
 
 - 👨‍💻&ensp;I’m focused on **Javascript ecosystem & marketplaces**
 
-- 🛠&ensp;Find out more about me on my [personal website](https://luis-oliveira.vercel.app/)
+- 🛠&ensp;Find out more about me on my [personal website](https://www.luisfilipept.com/)
 
 - 📝&ensp;I should write more articles [https://medium.com/@luis.fgbo](https://medium.com/@luis.fgbo)
 
