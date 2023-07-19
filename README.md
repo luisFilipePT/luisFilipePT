@@ -4,7 +4,7 @@
       <img alt="Hi 👋" src="https://www.luisfilipept.com/og.png"/>
   </a>
 </p>
-<h3 align="center">A problem solver, aka Senior <s>Software</s> Product Engineer from Portugal</h3>
+<h3 align="center">Staff engineer @ xgeeks 🛠️ | Open source believer | Enjoying life while coding 💻</h3>
 <p style="display: flex" align="center">
    <a href="https://www.credly.com/badges/15ccd1a2-7863-4569-842e-8e680ff2afdb/public_url" target="_blank">
       <img src="https://images.credly.com/size/220x220/images/8ee45313-716a-4142-a9da-30adaaea0c12/Training_Badges_Master_Node-AppDev.png" alt="JSNAD" width="100" height="100" />
